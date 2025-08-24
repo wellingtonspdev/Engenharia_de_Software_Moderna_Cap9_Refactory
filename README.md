@@ -54,11 +54,4 @@ A apresentação cobre os seguintes pontos do Capítulo 9:
 -   **Exemplos de Code Smells:** Código Duplicado, Funções Longas, Feature Envy e Obsessão por Tipos Primitivos.
 -   **Conclusão:** Reforçando o refactoring como um hábito essencial do desenvolvedor moderno.
 
-## 👥 Próximos Passos e Colaboração
-
-1.  **Revisão do Conteúdo:** Todos os membros devem revisar o conteúdo dos slides e do guia do apresentador. Se encontrar algo para melhorar, crie uma *Issue* ou converse no nosso grupo.
-2.  **Divisão das Partes:** Vamos definir quais slides cada integrante ficará responsável por apresentar.
-3.  **Estudo Individual:** Use o "Guia do Apresentador" para preparar sua fala e se aprofundar nos seus tópicos.
-4.  **Ensaio em Grupo:** Marcarmos um ou mais ensaios para passarmos a apresentação juntos, garantindo coesão e transições suaves entre os apresentadores.
-
 Qualquer dúvida, vamos discutir no grupo!
